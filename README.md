@@ -1,5 +1,5 @@
 # offsec_WE
-### learning case to prepare OSWE
+### my learning case to prepare OSWE exam
 
 
 ####
