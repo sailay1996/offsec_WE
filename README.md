@@ -19,4 +19,11 @@
 https://github.com/wetw0rk/AWAE-PREP <br>
 https://github.com/timip/OSWE <br>
 https://www.youtube.com/watch?v=Xfbu-pQ1tIc&list=PLwvifWoWyqwqkmJ3ieTG6uXUSuid95L33 <br>
-https://hansesecure.de/2019/08/from-awae-to-oswe-the-preperation-guide/
+https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project  <br>
+https://github.com/qazbnm456/awesome-web-security/blob/master/README.md#practices-application  <br>
+https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Deserialization_Cheat_Sheet.md  <br>
+https://www.owasp.org/index.php/Category:OWASP_Code_Review_Project  <br>
+https://techblog.mediaservice.net/2017/05/reliable-discovery-and-exploitation-of-java-deserialization-vulnerabilities/  <br>
+https://www.acunetix.com/blog/web-security-zone/deserialization-vulnerabilities-attacking-deserialization-in-js/  <br>
+https://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/  <br>
+https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet  <br>
