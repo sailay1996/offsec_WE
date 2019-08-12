@@ -15,6 +15,7 @@ PHPNuke CMS Case Study - CVE - 2010-XXXXX <br><br>
 Symantec Web Gateway 5.0.3.18 RCE - CVE-2012-2953 <br><br>
 FreePBX Elastix Remote Code Execution - CVE - 2012-XXXX <br><br>
 
-#### another resource:  <br><br>
+#### another resource:  <br>
 https://github.com/wetw0rk/AWAE-PREP <br>
 https://github.com/timip/OSWE <br>
+https://www.youtube.com/watch?v=Xfbu-pQ1tIc&list=PLwvifWoWyqwqkmJ3ieTG6uXUSuid95L33 <br>
