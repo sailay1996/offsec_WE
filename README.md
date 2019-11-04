@@ -17,6 +17,8 @@
 * FreePBX Elastix Remote Code Execution - CVE - 2012-XXXX <br>
 
 #### another resource:  <br>
+https://sarthaksaini.com/2019/awae/xss-rce.html <br>
+https://securitycafe.ro/2015/01/05/understanding-php-object-injection/ <br>
 https://github.com/wetw0rk/AWAE-PREP <br>
 https://github.com/timip/OSWE <br>
 https://www.youtube.com/watch?v=Xfbu-pQ1tIc&list=PLwvifWoWyqwqkmJ3ieTG6uXUSuid95L33 <br>
